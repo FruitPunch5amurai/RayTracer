@@ -1,10 +1,21 @@
 ﻿  RayTracer.cpp
-C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(16,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(48,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(51,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(125,40): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(131,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(132,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(133,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(27,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(59,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(62,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(128,46): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(129,25): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(176,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(188,40): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(197,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(198,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(215,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\RayTracer\RayTracer.cpp(238,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   RayTracer.vcxproj -> C:\Users\fruit\Desktop\Engines\RayTracer\RayTracer\Debug\RayTracer.exe
